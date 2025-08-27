@@ -30,8 +30,8 @@ This project highlights the **software development lifecycle (SDLC)** including 
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/maze-runner-game.git
-cd maze-runner-game
+git clone https://github.com/your-username/maze-runner-game.git](https://github.com/Shirleyngshuetling/Maze-Runner.git
+cd Maze-Runner
 ````
 ### 2. Mark res as resource root
 ⚠️ Make sure `res/` is marked as Resources Root in your IDE (in IntelliJ, right-click `res` → Mark Directory as → Resources Root).
